@@ -1,1 +1,1 @@
-# Analysis-of-Deep-Learning-techniques-for-Corona-Virus-Diseases-
+# Analysis-of-Corona-Virus-Diseases-by-Deep-Learning
